@@ -1,5 +1,5 @@
 # Snake-Game
-##snake game in c with all the basic features.
+Complete snake game in c with all the basic features.
 
 ###functionality
 turn up --> w <br>
