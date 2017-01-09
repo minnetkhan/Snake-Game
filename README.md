@@ -1,5 +1,5 @@
 # Snake-Game
-<h1>snake game in c with all the basic features.</h1>
+<h3>snake game in c with all the basic features.</h3>
 
 turn up --> w <br>
 turn down --> s <br>
