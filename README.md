@@ -1,6 +1,7 @@
 # Snake-Game
-<h3>snake game in c with all the basic features.</h3>
+##snake game in c with all the basic features.
 
+###functionality
 turn up --> w <br>
 turn down --> s <br>
 turn right --> d  <br>
