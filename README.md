@@ -1,7 +1,7 @@
 # Snake-Game
 Complete snake game in c with all the basic features.
 
-###functionality
+functionalities
 turn up --> w <br>
 turn down --> s <br>
 turn right --> d  <br>
